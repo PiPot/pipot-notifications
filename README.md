@@ -23,4 +23,4 @@ functionality.
 Full implementations are services that can be used productively.
 
 * Telegram: Bot that sends messages to one or more chat(s) (including group 
-chats).
+chats). Makes use of the python-telegram-bot package.
